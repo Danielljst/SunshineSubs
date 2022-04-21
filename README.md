@@ -1,1 +1,1 @@
-http://sunshinesubs.github.io/home.htmt
+http://sunshinesubs.github.io/home.html
